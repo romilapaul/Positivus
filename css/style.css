@@ -298,6 +298,10 @@ nav,
 
 /* let make things happen section */
 
+.make-things-happen-section{
+  padding-inline: 5px;
+}
+
 .make-things-happen-section > div > div {
   align-items: center;
   background-color: var(--tertiary-bg-color);
@@ -439,6 +443,10 @@ nav,
 }
 
 /* contact us section */
+
+.contact-us-section{
+  padding-inline: 5px;
+}
 
 .contact-us-section .row {
   background-color: var(--tertiary-bg-color);
