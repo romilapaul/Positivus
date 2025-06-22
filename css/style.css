@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+body,
+html {
+  overflow-x: hidden;
+}
+
 body {
   color: #000000;
   font-family: Space Grotesk;
